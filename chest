@@ -98,7 +98,7 @@ function AllowRunServiceBind.OnInvoke(args)
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "Chest Farm",
-        Text = "By VGB Team",
+        Text = "By HQR Team",
         Icon = "rbxthumb://type=Asset&id=15338990738&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
